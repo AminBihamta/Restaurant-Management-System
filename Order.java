@@ -17,10 +17,10 @@ public class Order {
         return total;
     }
 
-    public void printOrder() {
+    public void printOrder(double categoryMultiplier) {
         for (MenuItem item : items) {
-            System.out.println(item.getName() + ": $" + item.getPrice());
+            System.out.println(item.getName() + ": $" + (item.getPrice() * categoryMultiplier));
         }
-        System.out.println("Total: $" + getTotalPrice());
+        System.out.println("Total: $" + (getTotalPrice() * categoryMultiplier));
     }
 }

@@ -1,4 +1,9 @@
-Food,Burger,5.99
-Food,Pizza,8.99
+Food,Cheese Burger,5.99
+Food,Double Cheese Burger, 12.00
+Food,Cheese Pizza,8.99
+Food,Pepperoni Pizza, 10.00
 Beverage,Coke,1.99
+Beverage,Sprite, 1.99
+Beverage,Ice Lemon Tea, 1.50
+Beverage,Coconut Water, 3.00
 Beverage,Water,0.99

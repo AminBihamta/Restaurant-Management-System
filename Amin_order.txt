@@ -1,5 +1,0 @@
-Burger: $5.99
-Burger: $5.99
-Burger: $5.99
-Pizza: $8.99
-Total: $26.96
