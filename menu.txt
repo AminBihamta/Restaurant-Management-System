@@ -1,0 +1,4 @@
+Food,Burger,5.99
+Food,Pizza,8.99
+Beverage,Coke,1.99
+Beverage,Water,0.99
